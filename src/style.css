@@ -96,7 +96,7 @@ a {
     padding-left: 100px;
     padding-right: 100px;
 
-    @media (max-width: 700px) {
+    @media (max-width: 1000px) {
         flex-direction: column;
         padding-left: 10;
         padding-right: 10;
